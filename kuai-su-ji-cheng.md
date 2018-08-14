@@ -15,8 +15,8 @@
 
 | **参数** | **说明** |
 | :--- | :--- |
-| Project name | 创建的项目业务逻辑代码名称 |
-| Project package | 创建的包名称，必须是三级包路径，以other 开头。例如： other.xsy.sample |
+| Project name | 创建的项目业务逻辑代码名称 |
+| Project package | 创建的包名称，必须是三级包路径，以other 开头。例如： other.xsy.sample |
 | User name | 系统用户登录名 |
 | Password | 系统用户登录密码 |
 | ClientId、ClientSecret | 创建连接器后，获取的连接器详细信息。详见《PaaS 平台 开发手册》中连接器章节 |
@@ -25,7 +25,7 @@
 
 **NOTE:**
 
-> * _**一个Eclipseworkspace 下的所有project 享有同一套登陆信息，并且修改任一projectcredentials 都会影响相同workspace 下的其他proejct。**_
+> * _**一个Eclipse workspace 下的所有project 享有同一套登陆信息，并且修改任一projectcredentials 都会影响相同workspace 下的其他proejct。**_
 >
 > * _**如果在多租户并行开发时，需要给每个租户单独创建一个Eclipseworkspace，做到一个租户享有一个workspace。**_
 
