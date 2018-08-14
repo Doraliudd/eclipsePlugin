@@ -23,7 +23,7 @@
 | SecretCode | 在**个人设置&gt; 安全令牌**，获取安全令牌 |
 | host | 填写URL，用来区分生产环境和沙盒环境 |
 
-**NOTE:**
+> **NOTE:**
 
 > * _**一个Eclipse workspace 下的所有project 享有同一套登陆信息，并且修改任一project credentials 都会影响相同workspace 下的其他proejct。**_
 >
