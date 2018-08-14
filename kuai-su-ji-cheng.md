@@ -4,7 +4,7 @@
 
 1. 获取销售易Eclipse插件后，请将插件放入Eclipse安装目录下的plugins文件夹下。
    ![](/assets/com.png)
-2. 打开本地Eclipse，新建一个Project。
+2. 打开本地Eclipse，新建一个Project。<br>
    ![](/assets/newproject.png)
 3. 选择XSYproject，点击Next 按钮进行下一步操作。
    ![](/assets/xsyproject.png)
@@ -15,8 +15,8 @@
 
 | **参数** | **说明** |
 | :--- | :--- |
-| Project name | 创建的项目业务逻辑代码名称 |
-| Project package | 创建的包名称，必须是三级包路径，以other 开头。例如： other.xsy.sample |
+| Project name | 创建的项目业务逻辑代码名称 |
+| Project  package | 创建的包名称，必须是三级包路径，以other 开头。例如： other.xsy.sample |
 | User name | 系统用户登录名 |
 | Password | 系统用户登录密码 |
 | ClientId、ClientSecret | 创建连接器后，获取的连接器详细信息。详见《PaaS 平台 开发手册》中连接器章节 |
