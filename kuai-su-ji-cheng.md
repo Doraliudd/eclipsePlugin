@@ -25,9 +25,9 @@
 
 **NOTE:**
 
-> * _**一个Eclipseworkspace 下的所有project 享有同一套登陆信息，并且修改任一projectcredentials 都会影响相同workspace 下的其他proejct。**_
+> * _**一个Eclipse workspace 下的所有project 享有同一套登陆信息，并且修改任一project credentials 都会影响相同workspace 下的其他proejct。**_
 >
-> * _**如果在多租户并行开发时，需要给每个租户单独创建一个Eclipseworkspace，做到一个租户享有一个workspace。**_
+> * _**如果在多租户并行开发时，需要给每个租户单独创建一个Eclipse workspace，做到一个租户享有一个workspace。**_
 
 5.点击Finish 按钮，查看创建的项目。我们的开发人员已经进行了集成和封装，您创建项目需要的SDK 等一系列相关配置文件已经存在。
 
