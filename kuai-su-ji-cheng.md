@@ -24,7 +24,6 @@
 | host | 填写URL，用来区分生产环境和沙盒环境 |
 
 > **NOTE:**
-
 > * _**一个Eclipse workspace 下的所有project 享有同一套登陆信息，并且修改任一project credentials 都会影响相同workspace 下的其他proejct。**_
 >
 > * _**如果在多租户并行开发时，需要给每个租户单独创建一个Eclipse workspace，做到一个租户享有一个workspace。**_
