@@ -11,4 +11,7 @@
   * [新建项目](xiang-mu-kai-fa/xin-jian-xiang-mu.md)
   * [提交业务逻辑代码](xiang-mu-kai-fa/push-to-server.md)
 * [Push到GitHub](pushdao-github.md)
+  * [创建Git工程](pushdao-github/chuang-jian-git-gong-cheng.md)
+  * [设置GitHub路径](pushdao-github/she-zhi-github-lu-jing.md)
+  * [Push 到GitHub](pushdao-github/push-dao-github.md)
 
