@@ -11,6 +11,7 @@
 
 1.打开Eclipse工具，打开**Git Repositories**页签，点击**Clone a Git Repository and add it to this view**。填写GitHub地址信息，其他内容会自动填写。<br>
 ![](/assets/cloneGit.png)
+
 2.填写信息，点击**Next**。选择本地下载位置，然后点击**Finish**。<br>
 ![](/assets/directory.png)
 
