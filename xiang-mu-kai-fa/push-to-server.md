@@ -11,5 +11,15 @@
 
 2.登录完成后，选择项目点击右键，选择销售易插件**Xsy&gt;Push to Server**，进行业务逻辑代码包的上传。
 
+![](/assets/trigger.png)
+
+* 首次提交时，项目不存在，提示是否新建。
+
+![](/assets/newTriggerproject.png)
+
+* 点击**OK**，新建项目成功。
+
+![](/assets/triggersuccessful.png)
+
 
 
