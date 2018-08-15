@@ -18,7 +18,13 @@
 
 ## 编写业务逻辑代码
 
+1.创建class。
 
+![](/assets/class.png)
 
+2.对新建的类文件“ScriptTriggerImpl.java”编写业务逻辑，调用API接口。代码示例如下图所示。
 
+![](/assets/ScriptTriggerImplements.png)
+
+编写业务逻辑代码后，使用销售易Eclipse插件进行上传。
 
