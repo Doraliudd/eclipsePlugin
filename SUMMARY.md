@@ -1,7 +1,7 @@
 # Summary
 
 * [EclipsePlugin概述](README.md)
-  * [eclipsePlugin简介](eclipsepluginjian-jie.md)
+  * [EclipsePlugin简介](eclipsepluginjian-jie.md)
   * [前提条件](qian-ti-tiao-jian.md)
   * [快速集成](kuai-su-ji-cheng.md)
   * [功能说明](gong-neng-shuo-ming.md)
