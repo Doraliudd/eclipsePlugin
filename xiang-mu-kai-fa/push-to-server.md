@@ -1,6 +1,8 @@
-# Push to Server
 
-## 提交业务逻辑代码
+
+# 提交业务逻辑代码
+
+## Push to Server
 
 使用销售易Eclipse插件进行业务逻辑代码包上传。
 
@@ -34,6 +36,4 @@
 3.在销售易系统设置页面的左侧导航栏，选择开发者平台&gt;业务逻辑代码。查看代码包提交成功。
 
 ![](/assets/ScriptTriggerINF.png)
-
-
 
