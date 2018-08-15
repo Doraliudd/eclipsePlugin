@@ -27,5 +27,13 @@
 
 操作完成可以到销售易开发者平台进行查看，验证。
 
+1.登录销售易[https://crm.xiaoshouyi.com](https://crm.xiaoshouyi.com)。
+
+2.在左侧导航栏的左下角点击![](/assets/set.png)设置&gt; 系统设置进入销售易系统设置页面。
+
+3.在销售易系统设置页面的左侧导航栏，选择开发者平台&gt;业务逻辑代码。查看代码包提交成功。
+
+![](/assets/ScriptTriggerINF.png)
+
 
 
