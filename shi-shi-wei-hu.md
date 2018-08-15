@@ -4,7 +4,7 @@
 
 ## Pull From Server
 
-右击项目，选择销售易插件**Xsy>Pull From Server**。
+右击项目，选择销售易插件**Xsy&gt;Pull From Server**。
 
 
 
