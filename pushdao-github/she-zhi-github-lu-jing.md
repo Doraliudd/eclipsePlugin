@@ -10,5 +10,25 @@
 
 ![](/assets/newremotes.png)
 
+3.弹出Configure Push页面，点击**Charge**。
+
+![](/assets/charge.png)
+
+4.点击Charge后，弹出如下页面，填写相关信息。
+
+![](/assets/url.png)
+
+相关参数说明如下：
+
+* **URL**：在GitHub上拷贝的地址，输入后下面的内容会自动填写。
+
+* **User、Password**：GitHub上的用户名和密码。
+
+![](/assets/GitHub.png)
+
+5.填写信息后，点击**Finish&gt;Save**。
+
+![](/assets/save.png)
+
 
 
