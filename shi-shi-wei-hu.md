@@ -1,16 +1,27 @@
-# 实施维护
+# 开始开发
 
-主要帮助相关的开发实施人员协同开发，对系统应用再次开发。
+主要帮助刚刚了解销售易开发者平台功能的ISV伙伴，快速掌握销售易Eclipse Plugin的操作方法。
 
-## Pull From Server
+## Clone Git Repository
 
-右击项目，选择销售易插件**Xsy&gt;Pull From Server**。
+首先Clone GitHub上的销售易developerSample样例到本地，查看业务逻辑代码开发规范。
 
-![](/assets/eclipse1.png)
+* 需要在Eclipse工具上安装Git插件。
+* 销售易提供的GitHub样例地址为：[https://github.com/XsyDeveloper](https://github.com/XsyDeveloper)。
 
-弹出提示框，点击**Yes,** 刷新整个项目包；点击**No**, 取消本次操作。
+1.打开Eclipse工具，打开**Git Repositories**页签，点击**Clone a Git Repository and add it to this view**。填写GitHub地址信息，其他内容会自动填写。<br>
+![](/assets/cloneGit.png)
 
-![](/assets/confirm.png)
+2.填写信息，点击**Next**。选择本地下载位置，然后点击**Finish**。<br>
+![](/assets/directory.png)
 
-下载代码后，可以进行开发。
+## Import Projects
 
+查看Clone的项目，选择**developerSample**项目右键，点击**Import Projects**，把Git项目导入本地。<br>
+![](/assets/project.png)
+
+点击**Finish**，导入资源到本地。
+![](/assets/importSource.png)
+
+查看导入的项目样例。
+![](/assets/myDome.png)
