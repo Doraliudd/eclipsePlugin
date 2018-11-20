@@ -2,6 +2,8 @@
 
 本手册主要介绍销售易Eclipse Plugin及快速集成Eclipse Plugin的操作方法。123
 
+的看得开的看看的
+
 [目录](https://github.com/Doraliudd/eclipsePlugin/blob/master/SUMMARY.md)
 
 * [EclipsePlugin概述](README.md)
